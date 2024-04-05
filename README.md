@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors: Arena Simulation in Java Swing (TikTok inspired)
+# Rock, Paper, Scissors: Arena Simulation in Java Swing
 
 ## Description
 Three groups of customizable size of papers, rocks, and scissors are generated in three distinct sections of the field.   
