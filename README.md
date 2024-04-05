@@ -12,7 +12,9 @@ At the end, there will be only one group left.
 - Pressing a key during a simulation stops/resumes the current simulation.
 
 ## Preview
-![Beginning](/Preview/beginning.png) ![In Game](/Preview/middle.png) ![Ending](/Preview/end.png)
+![Beginning](/Preview/beginning.png)  
+![In Game](/Preview/middle.png)  
+![Ending](/Preview/end.png)
 
 ## The Code
 I tried to structure the code to be pretty easy to understand and modify according to personal preferences. The main aspects of the simulation, such as its speed, number of objects, and container size, are directly editable through the Settings class.
